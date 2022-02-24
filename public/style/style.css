@@ -1,0 +1,12 @@
+svg{
+    width:50px!important;
+  }
+  p{
+   display: none;
+  }
+  div{
+    margin-top:10px;
+  }
+  h2{
+      color: red;
+  }
